@@ -6,7 +6,7 @@
 
 
 
-Nano boyuttaki 4 farklı tür olan , Fibres, Nanowires, Powder ve Particles resimlerini sınıflandıran model .
+Nano boyuttaki 4 farklı tür olan , Fibres, Nanowires, Powder ve Particles resimlerini sınıflandıran model.
 
 
 ## İnternet Adres: 
