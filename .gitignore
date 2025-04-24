@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+notebooks/wandb/
+
+# Virtual Environment
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ML specific
+*.h5
+*.tflite
+*.ckpt
+logs/
+wandb/
+*.csv
+
+# Large data files
+data/data100/
+*.jpg
+*.jpeg
+*.png
+!prediction_plot.png
+!models/Train/*.png
+!models/Validation/*.png
+
+# Local configuration
+.env
+.env.local
+.env.*.local
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Project specific
+efficent_net224B0.h5
+efficent_netB4.h5
+efficent_netB7.h5
+efficent_netbB7logs.csv
